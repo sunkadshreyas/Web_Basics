@@ -1,3 +1,6 @@
+<!--index.html is for sign in page-->
+<!--styled by style.css-->
+<!--js file is script.js-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,16 +13,17 @@
     <script src="script.js" defer></script>
     <div class="loginbox">
         <img src="avatar.jpg" class="avatar">
-        <h1> Login Here</h1>
-        <form>
+        <div class="loginpage" id="loginpage">
+            <h1> Sign In</h1>
+            <form>
             <p>UserName</p>
-            <input type="text" name="" placeholder="Enter UserName">
+            <input type="text" name="text" id="text" placeholder="Enter UserName">
             <p>Password</p>
-            <input type="password" name="" placeholder="Enter Password">
-            <input type="submit" name="" value="Login">
+            <input type="password" name="password" id="password" placeholder="Enter Password">
+            <input type="submit" onclick="BtnClick" id="login" value="Login">
             <a href="#">Forgot password?</a>
-            <a href="#" id="account">Create Account</a>
-        </form>
+            <a href="#" onclick="RegisterFunction" id="account">Create Account</button>
+            </form>
     </div>
 </body>
 </html>
