@@ -87,3 +87,27 @@ h1{
 #account{
     float: right;
 }
+@media screen and (max-width: 500px) {
+    .loginbox{
+        width: 95%;
+        height: 100%;
+    }
+    body {
+        background:#fff790;
+    }
+    .header {
+        margin-right: -160px;
+    }
+    @media screen and (max-width: 800px) {
+        .loginbox {
+            width: 95%;
+            height: 100%;
+        }
+        body {
+            background:#fff790;
+        }
+        .header {
+            margin-right: -160px;
+        }
+    }
+}
