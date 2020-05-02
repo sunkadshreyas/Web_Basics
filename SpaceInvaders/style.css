@@ -1,15 +1,30 @@
 
 body{
-    margin: auto;
-    max-width: 500px;
     margin-top: 100px;
     background-image: url(space1.jpg);
 }
 
+.container{
+    text-align: center;
+    justify-items: center;
+}
+
+.grid{
+    margin-left: 33rem;
+    justify-items: center;
+}
+
+h1{
+    font-size: 30px;
+    color:darkslateblue;
+    font-family: 'Press Start 2P', cursive;
+}
 
 h3{
-    font-size: 34px;
-    color:blueviolet
+    align-items: center;
+    font-size: 22px;
+    color:blueviolet;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .grid{
