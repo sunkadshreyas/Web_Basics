@@ -11,6 +11,9 @@ username: shreyas<br />
 password : abcd<br />
 
 ToDo App : <br />
-Add, Edit and Remove Items from your TodoApp.
+Add, Edit and Remove Items from your TodoApp.<br />
+
+Space Invaders Game : <br />
+Use SpaceBar for shooting and arrow keys for movement of shooter.<br />
 
 
