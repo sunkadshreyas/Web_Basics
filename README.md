@@ -1,6 +1,5 @@
 
 <h1> <center>Basic JavaScript, HTML, CSS Applications</center></h1> 
-<br /><br />
 <h3> Inbox : </h3>
 Enter message and on pressing the send button it appears on the last sent message<br />
 On trying to send an empty message shows appropriate response.<br />
