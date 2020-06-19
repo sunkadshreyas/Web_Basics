@@ -7,8 +7,8 @@ On trying to send an empty message shows appropriate response.<br />
 <h3> Login Page : </h3> 
 Contains sign in and sign up page<br />
 Correct credentials : <br />
-username: shreyas<br />
-password : abcd<br />
+Username: shreyas<br />
+Password : abcd<br />
 
 <h3>ToDo App : </h3> 
 Add, Edit and Remove Items from your TodoApp.<br />
